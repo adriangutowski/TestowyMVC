@@ -1,0 +1,10 @@
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.deps.json
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.runtimeconfig.json
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.runtimeconfig.dev.json
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.dll
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.pdb
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.csprojResolveAssemblyReference.cache
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.AssemblyInfo.cs
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.dll
+c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.pdb
