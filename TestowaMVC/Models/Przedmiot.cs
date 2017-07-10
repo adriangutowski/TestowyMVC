@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace TestowaMVC.Models
 {
+    [Table("Przedmiot")]
     public class Przedmiot
     {
         public int ID { get; set; }
@@ -14,6 +16,7 @@ namespace TestowaMVC.Models
         public Sprzedaz Sprzedaz { get; set; }
     }
 
+    [Table("Kupno")]
     public class Kupno
     {
         public int KupnoID { get; set; }
@@ -24,6 +27,7 @@ namespace TestowaMVC.Models
         public Przedmiot Przedmiot { get; set; }
     }
 
+    [Table("Sprzedaz")]
     public class Sprzedaz
     {
         public int SprzedazID { get; set; }
