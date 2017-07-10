@@ -9,4 +9,4 @@ namespace TestowaMVC.Services
     {
         Task SendEmailAsync(string email, string subject, string message);
     }
-}//test vol adam ssss
+}//usunalem bin i obj
