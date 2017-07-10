@@ -33,4 +33,4 @@ namespace TestowaMVC.Models
         public int PrzedmiotID { get; set; }
         public Przedmiot Przedmiot { get; set; }
     }
-}
+} // el el
