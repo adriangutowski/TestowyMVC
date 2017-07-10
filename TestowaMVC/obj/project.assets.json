@@ -10950,15 +10950,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\agutowski\\.nuget\\packages\\": {}
+    "C:\\Users\\aszyszkowski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agutowski\\Documents\\Visual Studio 2017\\Projects\\TestowaMVC\\TestowaMVC\\TestowaMVC.csproj",
+      "projectUniqueName": "C:\\Users\\aszyszkowski\\Documents\\Visual Studio 2017\\Projects\\TestowyMVC\\TestowaMVC\\TestowaMVC.csproj",
       "projectName": "TestowaMVC",
-      "projectPath": "C:\\Users\\agutowski\\Documents\\Visual Studio 2017\\Projects\\TestowaMVC\\TestowaMVC\\TestowaMVC.csproj",
-      "outputPath": "C:\\Users\\agutowski\\Documents\\Visual Studio 2017\\Projects\\TestowaMVC\\TestowaMVC\\obj\\",
+      "projectPath": "C:\\Users\\aszyszkowski\\Documents\\Visual Studio 2017\\Projects\\TestowyMVC\\TestowaMVC\\TestowaMVC.csproj",
+      "outputPath": "C:\\Users\\aszyszkowski\\Documents\\Visual Studio 2017\\Projects\\TestowyMVC\\TestowaMVC\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
