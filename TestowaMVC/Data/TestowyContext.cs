@@ -20,16 +20,16 @@ namespace TestowaMVC.Data
             modelBuilder.Entity<Kupno>().ToTable("Kupno");
             modelBuilder.Entity<Sprzedaz>().ToTable("Sprzedaz");
 
-            // objasnia relacje 1-do-1
-            modelBuilder.Entity<Przedmiot>()
-            .HasOne(p => p.Kupno)
-            .WithOne(k => k.Przedmiot)
-            .HasForeignKey<Kupno>(i => i.PrzedmiotID);
+            //// objasnia relacje 1-do-1
+            //modelBuilder.Entity<Przedmiot>()
+            //.HasOne(p => p.Kupno)
+            //.WithOne(k => k.Przedmiot)
+            //.HasForeignKey<Kupno>(i => i.PrzedmiotID);
 
-            modelBuilder.Entity<Przedmiot>()
-            .HasOne(p => p.Sprzedaz)
-            .WithOne(k => k.Przedmiot)
-            .HasForeignKey<Sprzedaz>(i => i.PrzedmiotID);
+            //modelBuilder.Entity<Przedmiot>()
+            //.HasOne(p => p.Sprzedaz)
+            //.WithOne(k => k.Przedmiot)
+            //.HasForeignKey<Sprzedaz>(i => i.PrzedmiotID);
         }
     }
 }
