@@ -27,6 +27,13 @@ namespace TestowaMVC.Controllers
             return View();
         }
 
+        public IActionResult Test()
+        {
+            ViewData["Message"] = "Your test page.";
+
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View();
