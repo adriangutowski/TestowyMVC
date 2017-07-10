@@ -10,7 +10,7 @@ namespace TestowaMVC.Data
     {
         public static void Initialize(TestowyContext context)
         {
-            context.Database.EnsureCreated();
+            //context.Database.EnsureCreated();
 
             //var przedmioty = new Przedmiot[]
           
