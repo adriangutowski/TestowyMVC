@@ -12,10 +12,6 @@ namespace TestowaMVC.Data
         {
             context.Database.EnsureCreated();
 
-            // nie rob nic jesli w bazie sa juz dane
-            if (context.Przedmiot.Any())
-                return;
-
             //var przedmioty = new Przedmiot[]
           
         }
