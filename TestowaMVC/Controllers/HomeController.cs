@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
+
 
 namespace TestowaMVC.Controllers
 {
@@ -27,9 +29,14 @@ namespace TestowaMVC.Controllers
             return View();
         }
 
-        public IActionResult Test()
+        public IActionResult Json()
         {
-            ViewData["Message"] = "Your test page.";
+            ViewData["Message"] = "OWER JSON page.";
+
+
+         
+
+
 
             return View();
         }
