@@ -15,7 +15,7 @@ using TestowaMVC.Services;
 
 namespace TestowaMVC
 {
-    public class Startup
+    public class Startup // XD
     {
         public Startup(IHostingEnvironment env)
         {
