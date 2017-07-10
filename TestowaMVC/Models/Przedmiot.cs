@@ -7,21 +7,30 @@ namespace TestowaMVC.Models
 {
     public class Przedmiot
     {
-        public int id { get; set; }
-        public bool whitelisted { get; set; }
-        public Buys buys { get; set; }
-        public Sells sells { get; set; }
+        public int ID { get; set; }
+        public bool DlaF2P { get; set; }
+
+        public Kupno Kupno { get; set; }
+        public Sprzedaz Sprzedaz { get; set; }
     }
 
-    public class Buys
+    public class Kupno
     {
-        public int quantity { get; set; }
-        public int unit_price { get; set; }
+        public int KupnoID { get; set; }
+        public int KupnoIlosc { get; set; }
+        public int KupnoCena { get; set; }
+
+        public int PrzedmiotID { get; set; }
+        public Przedmiot Przedmiot { get; set; }
     }
 
-    public class Sells
+    public class Sprzedaz
     {
-        public int quantity { get; set; }
-        public int unit_price { get; set; }
+        public int SprzedazID { get; set; }
+        public int SprzedazIlosc { get; set; }
+        public int SprzedazCena { get; set; }
+
+        public int PrzedmiotID { get; set; }
+        public Przedmiot Przedmiot { get; set; }
     }
 }
