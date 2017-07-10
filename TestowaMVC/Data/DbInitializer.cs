@@ -12,8 +12,23 @@ namespace TestowaMVC.Data
         {
             context.Database.EnsureCreated();
 
-            //var przedmioty = new Przedmiot[]
-          
+            // nie robi nic jesli baza jest juz zapelniona
+            //if (context.Przedmiot.Any())
+            //    return;
+
+
+            var przedmioty = new Przedmiot[]
+            {
+                new Przedmiot{ID=1, DlaF2P=true},
+                new Przedmiot{ID=2, DlaF2P=true}
+            };
+
+            foreach (var p in przedmioty)
+            {
+                context.Przedmiot.Add(p);
+            }
+
+            context.SaveChanges();
         }
     }
 }
