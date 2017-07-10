@@ -8,3 +8,13 @@ c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\o
 c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.AssemblyInfo.cs
 c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.dll
 c:\users\agutowski\documents\visual studio 2017\Projects\TestowaMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.pdb
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.deps.json
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.runtimeconfig.json
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.runtimeconfig.dev.json
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.dll
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\bin\Debug\netcoreapp1.1\TestowaMVC.pdb
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.csprojResolveAssemblyReference.cache
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.AssemblyInfo.cs
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.dll
+C:\Users\kkonopka\Documents\Visual Studio 2017\Projects\TestowyMVC\TestowaMVC\obj\Debug\netcoreapp1.1\TestowaMVC.pdb
