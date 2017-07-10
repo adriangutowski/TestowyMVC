@@ -16,10 +16,8 @@ namespace TestowaMVC.Data
             if (context.Przedmiot.Any())
                 return;
 
-            var przedmioty = new Przedmiot[]
-            {
-                 ;
-            }
+            //var przedmioty = new Przedmiot[]
+          
         }
     }
 }
