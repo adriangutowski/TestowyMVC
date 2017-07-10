@@ -14,6 +14,6 @@ namespace TestowaMVC.Data
 
             //var przedmioty = new Przedmiot[]
           
-        }
+        }//
     }
 }
